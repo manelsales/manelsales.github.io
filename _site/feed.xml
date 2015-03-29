@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manel Sales</title>
+    <title>Blog de Manel-Jaume Sales</title>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>/</link>
-    <description>Prova de Blog amb Jekyll</description>
-    <pubDate>Sun, 29 Mar 2015 23:40:10 +0200</pubDate>
+    <description>Entre d'altres coses... pensaments, reflexions i idees!</description>
+    <pubDate>Mon, 30 Mar 2015 01:51:48 +0200</pubDate>
     
       
 
@@ -14,11 +14,11 @@
 
 
       <item>
-        <title>Prova | Manel Sales</title>
+        <title>Prova | Blog de Manel-Jaume Sales</title>
         
         <link>/jekyll/test/2015/03/29/proves/</link>
         <guid isPermaLink="true">/jekyll/test/2015/03/29/proves/</guid>
-        <description>&lt;p&gt;Provant Jekyll!&lt;/p&gt;
+        <description>&lt;p&gt;Escrit amb &lt;em&gt;EMACS&lt;/em&gt; i &lt;strong&gt;Provant Jekyll&lt;/strong&gt;!&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Mar 2015 22:53:38 +0200</pubDate>
       </item>
