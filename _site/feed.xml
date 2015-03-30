@@ -5,7 +5,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>/</link>
     <description>Entre d'altres coses... pensaments, reflexions i idees!</description>
-    <pubDate>Mon, 30 Mar 2015 02:04:32 +0200</pubDate>
+    <pubDate>Mon, 30 Mar 2015 02:21:25 +0200</pubDate>
     
       
 
@@ -16,8 +16,8 @@
       <item>
         <title>Prova | Blog de Manel-Jaume Sales</title>
         
-        <link>/jekyll/test/2015/03/29/proves/</link>
-        <guid isPermaLink="true">/jekyll/test/2015/03/29/proves/</guid>
+        <link>/jekyll/2015/03/29/proves/</link>
+        <guid isPermaLink="true">/jekyll/2015/03/29/proves/</guid>
         <description>&lt;p&gt;Escrit amb &lt;em&gt;EMACS&lt;/em&gt; i &lt;strong&gt;Provant Jekyll&lt;/strong&gt;!&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Mar 2015 22:53:38 +0200</pubDate>

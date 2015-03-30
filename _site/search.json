@@ -1,11 +1,11 @@
 [
 
 {
-"id": "-jekyll-test-2015-03-29-proves",
+"id": "-jekyll-2015-03-29-proves",
 "title": "Prova",
 "author": null,
-"tags": [],
-"url": "/jekyll/test/2015/03/29/proves/",
+"tags": ["jekyll"],
+"url": "/jekyll/2015/03/29/proves/",
 "date": "2015-03-29",
 "content": "Escrit amb EMACS i Provant Jekyll!"
 }
