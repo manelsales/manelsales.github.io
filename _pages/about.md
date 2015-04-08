@@ -5,7 +5,16 @@ permalink: /about/
 order: 1
 share: false
 ---
-Aquest blog neix de la idea de tenir en un espai el munt d'apunts, notes i demés de tot allò que em passa pel cap.
+Tenir un blog més? I en **Github**?
+Doncs, sí! I perquè no?
+Sovint ens obrim un compte en un espai tipus [Wordpress](http://wordpress.com) o [Blogger](https://www.blogger.com), i ja ho tenim. Però tenir un blog amb *github* m'ofereix varies avantatges.
+Per una banda aprendre a fer-ho, que ja per si, m'agrada. Per una altra banda poder escriure amb un editor de textos com **Emacs**, tenir-ho en local i sincronitzar-ho cada vegada que ho vull a la xarxa. Al final em dóna un control total sobre el què escric.
+
+-------------------------------------------------------------------------------
+
+A més a més, moltes vegades faig un munt de notes i apunts en papers, i acaben entre llibretes i carpetes. Així que aquest blog neix amb <u>la idea de tenir en un espai</u> on recollir-ho tot, i que em quedin una mica endreçats. Per una altra banda, si són d'algun servei per algú, doncs perfecte.
+
+Tot el que escric en aquest blog queda sota llicència [Creative Commons (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca).
 
 
 -------------------------------------------------------------------------------
