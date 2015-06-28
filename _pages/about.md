@@ -12,7 +12,9 @@ Per una banda aprendre a fer-ho, que ja per si, m'agrada. Per una altra banda po
 
 -------------------------------------------------------------------------------
 
-A més a més, moltes vegades faig un munt de notes i apunts en papers, i acaben entre llibretes i carpetes. Així que aquest blog neix amb <u>la idea de tenir en un espai</u> on recollir-ho tot, i que em quedin una mica endreçats. Per una altra banda, si són d'algun servei per algú, doncs perfecte.
+Ja tinc altres blogs on parlo d'educació, de programari lliure, de poesia i d´esperanto. Així que aquí, principalment escriuré sobre orient (historia, arts, literatura i curiositats). Ja fa uns anys que em vaig llicenciar en Estudis d´Asia Oriental. 
+
+Moltes vegades faig un munt de notes i apunts en papers, i acaben entre llibretes i carpetes. Així que aquest blog neix amb <u>la idea de tenir en un espai</u> on recollir-ho tot, i que em quedin una mica endreçats. Per una altra banda, si són d'algun servei per algú, doncs perfecte.
 
 Tot el que escric en aquest blog queda sota llicència [Creative Commons (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca).
 
