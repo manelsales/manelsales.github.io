@@ -18,7 +18,6 @@ Moltes vegades faig un munt de notes i apunts en papers, i acaben entre llibrete
 
 Tot el que escric en aquest blog queda sota llicència [Creative Commons (by-nc-sa)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca).
 
-
 -------------------------------------------------------------------------------
 
 La plantilla del blog és [QckTheme](https://github.com/qckanemoto/jekyll-qck-theme), un tema de codi obert per a [Jekyll](http://jekyllrb.com/), amb llicència MIT.
