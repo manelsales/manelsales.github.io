@@ -11,7 +11,7 @@ Sovint ens obrim un compte en un espai tipus [Wordpress](http://wordpress.com) o
 Per una banda aprendre a fer-ho, que ja per si, m'agrada. Per una altra banda poder escriure amb un editor de textos com **Emacs**, tenir-ho en local i sincronitzar-ho cada vegada que ho vull a la xarxa. Al final em dóna un control total sobre el què escric.
 
 -------------------------------------------------------------------------------
-# ![Manel Sales](/images/manel.jpg =100x :left)
+<!--- ![Manel Sales](/images/manel.jpg =100x :left) --->
 <img src=/images/manel.jpg width=100 />
 
 Em dic Manel-Jaume Sales Carda i sóc una apasionat de la cultura de l'Àsia Oriental, especialment em fascina la cultura xinesa. He tingut l'oportunitat d'anar varies vegades a la Xina i ja fa uns anys que em vaig llicenciar en **Estudis d´Àsia Oriental** a través de la *UOC*.
