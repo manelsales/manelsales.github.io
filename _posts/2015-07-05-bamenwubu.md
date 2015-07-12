@@ -6,7 +6,7 @@ categories: taijiquan
 tags: taijiquan
 ---
 
-Existeix en Yang Taiji un escrit antic i important atribuït a Yang Banhou (fill de Yang Luchan) i que segueix a continuació:
+Existeix en Yang Taiji un escrit antic i important atribuït a **Yang Banhou** (fill de Yang Luchan) i que segueix a continuació:
 
 ##《八门五步》##
 朋（南），捋（西），挤（东），按（北）；採（西北），挒（东南），肘（东北），靠（西南）——方位。
